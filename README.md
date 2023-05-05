@@ -1,0 +1,5 @@
+# API-Algamoney desenvolvida com framework SPRING BOOT VERSÃO 2.7
+
+# USANDO JAVA 17
+
+# PROJETO SERÁ MIGRADO PARA PRODUÇÃO NO HEROKU 
